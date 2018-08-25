@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>I&#39;m 子浩:-)</title>
+  
+  <subtitle>这里暂时还是个百废待兴的博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-25T13:19:40.674Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>子浩</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://yoursite.com/2018/08/20/about/"/>
+    <id>http://yoursite.com/2018/08/20/about/</id>
+    <published>2018-08-20T13:17:23.000Z</published>
+    <updated>2018-08-25T13:19:40.674Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="子浩"><a href="#子浩" class="headerlink" title="#子浩"></a>#子浩</h2><!--<h2>#子浩<a class="headerlink" href="#zihao" title="zihao"></a></h2>--><p>Email: <a href="mailto:proud1251@outlook.com" target="_blank" rel="noopener">proud1251@outlook.com</a></p><p>Github: github.com/proud1251</p><p>Wechat: zihao1251933929</p><p>emm…说点啥好呢。目前坐标深圳，2018-2021这三年时间在深信软件学院，然后…以后再更吧，百废待兴。</p><p><img src="images/androidify-ac.jpg" width="50%" height="50%"><br><!--![Image of AAC](images/androidify-ac.jpg)--></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;子浩&quot;&gt;&lt;a href=&quot;#子浩&quot; class=&quot;headerlink&quot; title=&quot;#子浩&quot;&gt;&lt;/a&gt;#子浩&lt;/h2&gt;&lt;!--
+&lt;h2&gt;#子浩&lt;a class=&quot;headerlink&quot; href=&quot;#zihao&quot; title=&quot;zihao&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/08/20/hello-world/"/>
+    <id>http://yoursite.com/2018/08/20/hello-world/</id>
+    <published>2018-08-20T11:27:20.835Z</published>
+    <updated>2018-08-20T16:31:58.742Z</updated>
+    
+    <content type="html"><![CDATA[<!--Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).--><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!--
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you g
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
