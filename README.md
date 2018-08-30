@@ -1,5 +1,5 @@
 # proud1251.github.io
-key word
+key words
 
 learning | resources | books | path | interviews | 
 
