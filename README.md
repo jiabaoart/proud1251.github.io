@@ -2,5 +2,7 @@
 key word
 
 learning | resources | books | path | interviews | 
+
 projects | frameworks | os | 
+
 programmer | software engineer 
