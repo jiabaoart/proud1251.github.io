@@ -1,8 +1,14 @@
 # proud1251.github.io
-key words
+key words | tags |
 
-learning | resources | books | path | interviews | 
+learning | resources | books | path | interviews | programming langs | docs | awesome lists | cs | map | textbooks | edu | university | English | 
 
-projects | frameworks | os | app | 
+projects(PRs) | frameworks | os | app | company |
 
-programmer | software engineer 
+programmer | software engineer | coder | developer | hacker | career | farmer | 
+
+XD | love | social | unrequited love | Mr. Robot | Eliot | 
+
+poor | 
+
+mental disorder | 
